@@ -82,6 +82,7 @@ bool CheckWin(char array[3][3]){
 
 
 int main() {
+    cout << endl;
     const int SIZE = 3;
     char gameBoard[SIZE][SIZE] = {
             {' ', ' ', ' '},
